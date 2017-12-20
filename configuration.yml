@@ -1,0 +1,5 @@
+userId: "37BVSIBNG6F8VLFUGLHE21vvLt0FHU7LZq41zjwq4Qklb6jr4"
+password: "53sotL0hvj9uJSDsJ9Hiu3ZqV2kD4j9wH7z2ixs"
+cert: "./security/cert.pem"
+key: "./security/key_88d4e404-2ac2-40ad-a9f2-ec5be3163886.pem"
+visaUrl: "https://sandbox.api.visa.com/"
